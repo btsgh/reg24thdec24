@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "676a2ce0dc72010b7e629312_a3669a52-e623-4df8-ba4b-166f74ac152e",
+  "id": "JS & Java_Typecast",
+  "unpublishedCollection": {
+    "name": "Typecast",
+    "pageId": "JS & Java",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ]
+  }
+}

@@ -28,6 +28,22 @@
     {
       "id": "20MB",
       "isDefault": false
+    },
+    {
+      "id": "cURL",
+      "isDefault": false
+    },
+    {
+      "id": "JS & Java",
+      "isDefault": false
+    },
+    {
+      "id": "Page1",
+      "isDefault": false
+    },
+    {
+      "id": "Page2",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {
