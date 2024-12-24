@@ -18,15 +18,11 @@
   "icon": "server-line",
   "pages": [
     {
-      "id": "Master",
+      "id": "20MB",
       "isDefault": true
     },
     {
       "id": "APIs",
-      "isDefault": false
-    },
-    {
-      "id": "20MB",
       "isDefault": false
     },
     {
@@ -35,6 +31,10 @@
     },
     {
       "id": "JS & Java",
+      "isDefault": false
+    },
+    {
+      "id": "Master",
       "isDefault": false
     },
     {
