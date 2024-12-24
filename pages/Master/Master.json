@@ -1,6 +1,7 @@
 {
   "gitSyncId": "676a1390c48fe4100c509bc5_f06129d9-e60f-43a1-ba33-1b9a7ec6fb98",
   "unpublishedPage": {
+    "isHidden": false,
     "layouts": [
       {
         "dsl": {
@@ -26,7 +27,7 @@
         }
       }
     ],
-    "name": "Page1",
-    "slug": "page1"
+    "name": "Master",
+    "slug": "master"
   }
 }
